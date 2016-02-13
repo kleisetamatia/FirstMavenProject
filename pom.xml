@@ -1,0 +1,6 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>TestApps</groupId>
+    <artifactId>FirstMavenProject</artifactId>
+    <version>1</version>
+</project>
